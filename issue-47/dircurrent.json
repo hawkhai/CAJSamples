@@ -1,25 +1,15 @@
 {
-  "count": 4,
+  "count": 2,
   "filelist": {
-    "CAJSamples\\issue-47\\_.pdf": {
-      "fmd5": "0c9d6d8f6ebed67f44301e0771be2222",
-      "fsize": 5902653,
-      "symlink": "CAJSamples/issue-47/_.pdf/0c9d6d8f6ebed67f44301e0771be2222._.pdf"
-    },
-    "CAJSamples\\issue-47\\output.pdf": {
-      "fmd5": "1d0c0f7616b507d4fa70e84613dfbbe1",
-      "fsize": 5906702,
-      "symlink": "CAJSamples/issue-47/output.pdf/1d0c0f7616b507d4fa70e84613dfbbe1.output.pdf"
-    },
     "CAJSamples\\issue-47\\\u4f9d\u636e\u4e66\u6cd5\u7b14\u529b\u5bf9\u8fd0\u7b14\u57fa\u672c\u95ee\u9898\u7684\u518d\u8ba4\u8bc6_\u5218\u7389\u680b.caj": {
       "fmd5": "88f8370d932c74442dc6fc96fda59519",
       "fsize": 3832876,
       "symlink": "CAJSamples/issue-47/\u4f9d\u636e\u4e66\u6cd5\u7b14\u529b\u5bf9\u8fd0\u7b14\u57fa\u672c\u95ee\u9898\u7684\u518d\u8ba4\u8bc6_\u5218\u7389\u680b.caj/88f8370d932c74442dc6fc96fda59519.\u4f9d\u636e\u4e66\u6cd5\u7b14\u529b\u5bf9\u8fd0\u7b14\u57fa\u672c\u95ee\u9898\u7684\u518d\u8ba4\u8bc6_\u5218\u7389\u680b.caj"
     },
     "CAJSamples\\issue-47\\\u4f9d\u636e\u4e66\u6cd5\u7b14\u529b\u5bf9\u8fd0\u7b14\u57fa\u672c\u95ee\u9898\u7684\u518d\u8ba4\u8bc6_\u5218\u7389\u680b.pdf": {
-      "fmd5": "f216f48514a00bee7f230d2e0909f608",
-      "fsize": 5394934,
-      "symlink": "CAJSamples/issue-47/\u4f9d\u636e\u4e66\u6cd5\u7b14\u529b\u5bf9\u8fd0\u7b14\u57fa\u672c\u95ee\u9898\u7684\u518d\u8ba4\u8bc6_\u5218\u7389\u680b.pdf/f216f48514a00bee7f230d2e0909f608.\u4f9d\u636e\u4e66\u6cd5\u7b14\u529b\u5bf9\u8fd0\u7b14\u57fa\u672c\u95ee\u9898\u7684\u518d\u8ba4\u8bc6_\u5218\u7389\u680b.pdf"
+      "fmd5": "30ced62dbee5e1b7337b55843563e25e",
+      "fsize": 5394929,
+      "symlink": "CAJSamples/issue-47/\u4f9d\u636e\u4e66\u6cd5\u7b14\u529b\u5bf9\u8fd0\u7b14\u57fa\u672c\u95ee\u9898\u7684\u518d\u8ba4\u8bc6_\u5218\u7389\u680b.pdf/30ced62dbee5e1b7337b55843563e25e.\u4f9d\u636e\u4e66\u6cd5\u7b14\u529b\u5bf9\u8fd0\u7b14\u57fa\u672c\u95ee\u9898\u7684\u518d\u8ba4\u8bc6_\u5218\u7389\u680b.pdf"
     }
   },
   "ossroot": false

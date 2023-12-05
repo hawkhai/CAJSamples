@@ -1,4 +1,4 @@
 "CAJSamples\issue-69\12.caj" 1f2b7869a5eb5aba29f91700026609bc 6685012 "CAJSamples/issue-69/12.caj/1f2b7869a5eb5aba29f91700026609bc.12.caj"
-"CAJSamples\issue-69\12.pdf" 355ebd25b60d78aa5a8188486a3d03df 8793238 "CAJSamples/issue-69/12.pdf/355ebd25b60d78aa5a8188486a3d03df.12.pdf"
+"CAJSamples\issue-69\12.pdf" c2eb681e0256d866e20e224172af1e9f 8793233 "CAJSamples/issue-69/12.pdf/c2eb681e0256d866e20e224172af1e9f.12.pdf"
 "CAJSamples\issue-69\光波导光学相控阵技术的理论和实验研究_梁华伟.caj" cfa03362fee0fc5ce1a29be8344fe86a 7491145 "CAJSamples/issue-69/光波导光学相控阵技术的理论和实验研究_梁华伟.caj/cfa03362fee0fc5ce1a29be8344fe86a.光波导光学相控阵技术的理论和实验研究_梁华伟.caj"
-"CAJSamples\issue-69\光波导光学相控阵技术的理论和实验研究_梁华伟.pdf" 3bb167c69bdac8d06acff8835742833f 9696804 "CAJSamples/issue-69/光波导光学相控阵技术的理论和实验研究_梁华伟.pdf/3bb167c69bdac8d06acff8835742833f.光波导光学相控阵技术的理论和实验研究_梁华伟.pdf"
+"CAJSamples\issue-69\光波导光学相控阵技术的理论和实验研究_梁华伟.pdf" f67fa87b2659a9e69bd550c9171738c5 9696806 "CAJSamples/issue-69/光波导光学相控阵技术的理论和实验研究_梁华伟.pdf/f67fa87b2659a9e69bd550c9171738c5.光波导光学相控阵技术的理论和实验研究_梁华伟.pdf"
