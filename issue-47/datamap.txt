@@ -1,1 +1,3 @@
+"CAJSamples\issue-47\_.pdf" 0c9d6d8f6ebed67f44301e0771be2222 5902653 "CAJSamples/issue-47/_.pdf/0c9d6d8f6ebed67f44301e0771be2222._.pdf"
+"CAJSamples\issue-47\output.pdf" 1d0c0f7616b507d4fa70e84613dfbbe1 5906702 "CAJSamples/issue-47/output.pdf/1d0c0f7616b507d4fa70e84613dfbbe1.output.pdf"
 "CAJSamples\issue-47\依据书法笔力对运笔基本问题的再认识_刘玉栋.caj" 88f8370d932c74442dc6fc96fda59519 3832876 "CAJSamples/issue-47/依据书法笔力对运笔基本问题的再认识_刘玉栋.caj/88f8370d932c74442dc6fc96fda59519.依据书法笔力对运笔基本问题的再认识_刘玉栋.caj"

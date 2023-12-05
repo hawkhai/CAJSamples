@@ -1,5 +1,11 @@
 {
-  "count": 0,
-  "filelist": {},
+  "count": 1,
+  "filelist": {
+    "CAJSamples\\issue-37\\default.pdf": {
+      "fmd5": "2c2b13ceaae7e408b8de7d0b1acd8998",
+      "fsize": 1358310,
+      "symlink": "CAJSamples/issue-37/default.pdf/2c2b13ceaae7e408b8de7d0b1acd8998.default.pdf"
+    }
+  },
   "ossroot": false
 }
