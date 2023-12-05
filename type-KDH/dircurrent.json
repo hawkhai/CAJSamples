@@ -1,21 +1,5 @@
 {
-  "count": 3,
-  "filelist": {
-    "CAJSamples\\type-KDH\\G\u516c\u53f8\u533b\u836f\u79fb\u52a8\u7535\u5b50\u5546\u52a1\u5e73\u53f0\u9879\u76ee\u53ef\u884c\u6027\u7814\u7a76_\u9093\u6653\u806a.caj": {
-      "fmd5": "bc21800e39e4186caf91a1fc4b85c292",
-      "fsize": 84,
-      "symlink": "CAJSamples/type-KDH/G\u516c\u53f8\u533b\u836f\u79fb\u52a8\u7535\u5b50\u5546\u52a1\u5e73\u53f0\u9879\u76ee\u53ef\u884c\u6027\u7814\u7a76_\u9093\u6653\u806a.caj/bc21800e39e4186caf91a1fc4b85c292.G\u516c\u53f8\u533b\u836f\u79fb\u52a8\u7535\u5b50\u5546\u52a1\u5e73\u53f0\u9879\u76ee\u53ef\u884c\u6027\u7814\u7a76_\u9093\u6653\u806a.caj"
-    },
-    "CAJSamples\\type-KDH\\ZZXX200402047.caj": {
-      "fmd5": "24014c39e0b1cf6441c228fe03d0e062",
-      "fsize": 29,
-      "symlink": "CAJSamples/type-KDH/ZZXX200402047.caj/24014c39e0b1cf6441c228fe03d0e062.ZZXX200402047.caj"
-    },
-    "CAJSamples\\type-KDH\\\u65f6\u95f4\u5e8f\u5217\u6a21\u578b\u5728\u536b\u661f\u5f02\u5e38\u68c0\u6d4b\u4e2d\u7684\u5e94\u7528\u7814\u7a76_\u4f59\u6587\u8273.caj": {
-      "fmd5": "4b817aca6138a62460e148bf0a82cbd0",
-      "fsize": 83,
-      "symlink": "CAJSamples/type-KDH/\u65f6\u95f4\u5e8f\u5217\u6a21\u578b\u5728\u536b\u661f\u5f02\u5e38\u68c0\u6d4b\u4e2d\u7684\u5e94\u7528\u7814\u7a76_\u4f59\u6587\u8273.caj/4b817aca6138a62460e148bf0a82cbd0.\u65f6\u95f4\u5e8f\u5217\u6a21\u578b\u5728\u536b\u661f\u5f02\u5e38\u68c0\u6d4b\u4e2d\u7684\u5e94\u7528\u7814\u7a76_\u4f59\u6587\u8273.caj"
-    }
-  },
+  "count": 0,
+  "filelist": {},
   "ossroot": false
 }

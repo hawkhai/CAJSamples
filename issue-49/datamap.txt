@@ -1,2 +1,3 @@
 "CAJSamples\issue-49\皮质骨钻削中温度分布的预测模型及热影响区的研究_李向军.caj" 451bc5c7c5cb88ccb54f4d39027c1519 3136092 "CAJSamples/issue-49/皮质骨钻削中温度分布的预测模型及热影响区的研究_李向军.caj/451bc5c7c5cb88ccb54f4d39027c1519.皮质骨钻削中温度分布的预测模型及热影响区的研究_李向军.caj"
 "CAJSamples\issue-49\皮质骨钻削中温度分布的预测模型及热影响区的研究_李向军.melon.pdf" 4f065f4a90947c98c1c1421d89601eb3 3010623 "CAJSamples/issue-49/皮质骨钻削中温度分布的预测模型及热影响区的研究_李向军.melon.pdf/4f065f4a90947c98c1c1421d89601eb3.皮质骨钻削中温度分布的预测模型及热影响区的研究_李向军.melon.pdf"
+"CAJSamples\issue-49\皮质骨钻削中温度分布的预测模型及热影响区的研究_李向军.pdf" 9c9356617e4fcdb3dbd595cfa50b5223 3265601 "CAJSamples/issue-49/皮质骨钻削中温度分布的预测模型及热影响区的研究_李向军.pdf/9c9356617e4fcdb3dbd595cfa50b5223.皮质骨钻削中温度分布的预测模型及热影响区的研究_李向军.pdf"

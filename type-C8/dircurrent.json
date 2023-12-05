@@ -1,31 +1,5 @@
 {
-  "count": 5,
-  "filelist": {
-    "CAJSamples\\type-C8\\4-[21].caj": {
-      "fmd5": "23ee8836e0a1bf9ee7b7eb88bd0f0d96",
-      "fsize": 22,
-      "symlink": "CAJSamples/type-C8/4-[21].caj/23ee8836e0a1bf9ee7b7eb88bd0f0d96.4-[21].caj"
-    },
-    "CAJSamples\\type-C8\\4-[24].caj": {
-      "fmd5": "a10c0294286226303ebbff848d66278f",
-      "fsize": 22,
-      "symlink": "CAJSamples/type-C8/4-[24].caj/a10c0294286226303ebbff848d66278f.4-[24].caj"
-    },
-    "CAJSamples\\type-C8\\IDL\u7f16\u8bd1\u5668\u7684\u5b9e\u73b0_\u8bcd\u6cd5\u5206\u6790\u90e8\u5206_\u4e8e\u57f4\u5c27.caj": {
-      "fmd5": "137a41264f71ca11feb81ab2225a258f",
-      "fsize": 66,
-      "symlink": "CAJSamples/type-C8/IDL\u7f16\u8bd1\u5668\u7684\u5b9e\u73b0_\u8bcd\u6cd5\u5206\u6790\u90e8\u5206_\u4e8e\u57f4\u5c27.caj/137a41264f71ca11feb81ab2225a258f.IDL\u7f16\u8bd1\u5668\u7684\u5b9e\u73b0_\u8bcd\u6cd5\u5206\u6790\u90e8\u5206_\u4e8e\u57f4\u5c27.caj"
-    },
-    "CAJSamples\\type-C8\\test1.caj": {
-      "fmd5": "8df1a9e456a8cb3b3bd1c6af0ec656c0",
-      "fsize": 21,
-      "symlink": "CAJSamples/type-C8/test1.caj/8df1a9e456a8cb3b3bd1c6af0ec656c0.test1.caj"
-    },
-    "CAJSamples\\type-C8\\\u6df7\u51dd\u571f\u9053\u9762\u8bc4\u4ef7\u6307\u6807\u5206\u6790_\u8c22\u6c38\u4eae.caj": {
-      "fmd5": "b3cc60adfd5f7f3fc8c199fde379a640",
-      "fsize": 59,
-      "symlink": "CAJSamples/type-C8/\u6df7\u51dd\u571f\u9053\u9762\u8bc4\u4ef7\u6307\u6807\u5206\u6790_\u8c22\u6c38\u4eae.caj/b3cc60adfd5f7f3fc8c199fde379a640.\u6df7\u51dd\u571f\u9053\u9762\u8bc4\u4ef7\u6307\u6807\u5206\u6790_\u8c22\u6c38\u4eae.caj"
-    }
-  },
+  "count": 0,
+  "filelist": {},
   "ossroot": false
 }

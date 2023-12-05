@@ -1,10 +1,15 @@
 {
-  "count": 1,
+  "count": 2,
   "filelist": {
     "CAJSamples\\issue-44\\\u57fa\u4e8e802.11ac\u7684LDPC\u7f16\u8bd1\u7801\u7b97\u6cd5\u8bbe\u8ba1\u4e0e\u5b9e\u73b0_\u6768\u9633.caj": {
       "fmd5": "8b4ab19882f042148a799061d1adfa4c",
       "fsize": 5455734,
       "symlink": "CAJSamples/issue-44/\u57fa\u4e8e802.11ac\u7684LDPC\u7f16\u8bd1\u7801\u7b97\u6cd5\u8bbe\u8ba1\u4e0e\u5b9e\u73b0_\u6768\u9633.caj/8b4ab19882f042148a799061d1adfa4c.\u57fa\u4e8e802.11ac\u7684LDPC\u7f16\u8bd1\u7801\u7b97\u6cd5\u8bbe\u8ba1\u4e0e\u5b9e\u73b0_\u6768\u9633.caj"
+    },
+    "CAJSamples\\issue-44\\\u57fa\u4e8e802.11ac\u7684LDPC\u7f16\u8bd1\u7801\u7b97\u6cd5\u8bbe\u8ba1\u4e0e\u5b9e\u73b0_\u6768\u9633.pdf": {
+      "fmd5": "15261922f43161554cec97c5c42774f8",
+      "fsize": 5738578,
+      "symlink": "CAJSamples/issue-44/\u57fa\u4e8e802.11ac\u7684LDPC\u7f16\u8bd1\u7801\u7b97\u6cd5\u8bbe\u8ba1\u4e0e\u5b9e\u73b0_\u6768\u9633.pdf/15261922f43161554cec97c5c42774f8.\u57fa\u4e8e802.11ac\u7684LDPC\u7f16\u8bd1\u7801\u7b97\u6cd5\u8bbe\u8ba1\u4e0e\u5b9e\u73b0_\u6768\u9633.pdf"
     }
   },
   "ossroot": false

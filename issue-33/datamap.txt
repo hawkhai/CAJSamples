@@ -1,3 +1,6 @@
 "CAJSamples\issue-33\test1.caj" b476541e95bc702b75bf2790408f8bca 2625902 "CAJSamples/issue-33/test1.caj/b476541e95bc702b75bf2790408f8bca.test1.caj"
+"CAJSamples\issue-33\test1.pdf" 87cb6ac1b5e33067828a08f319324a1b 3741517 "CAJSamples/issue-33/test1.pdf/87cb6ac1b5e33067828a08f319324a1b.test1.pdf"
 "CAJSamples\issue-33\test2.caj" 4c97d78bcf6da1d92dde84baeb35f68f 6421382 "CAJSamples/issue-33/test2.caj/4c97d78bcf6da1d92dde84baeb35f68f.test2.caj"
+"CAJSamples\issue-33\test2.pdf" aa7d8a88452776ee4b77b818a4f80d8a 6412629 "CAJSamples/issue-33/test2.pdf/aa7d8a88452776ee4b77b818a4f80d8a.test2.pdf"
 "CAJSamples\issue-33\test3.caj" 754960d8915cac3aa46365b027e1d80d 5328698 "CAJSamples/issue-33/test3.caj/754960d8915cac3aa46365b027e1d80d.test3.caj"
+"CAJSamples\issue-33\test3.pdf" 670b6245f36b1887224e2c5f31825c5b 5328713 "CAJSamples/issue-33/test3.pdf/670b6245f36b1887224e2c5f31825c5b.test3.pdf"

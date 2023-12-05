@@ -1,10 +1,15 @@
 {
-  "count": 1,
+  "count": 2,
   "filelist": {
     "CAJSamples\\issue-48\\ZZXX200402047.caj": {
       "fmd5": "9106c1b6b37bb2958c2fe54f3eb6116b",
       "fsize": 37743,
       "symlink": "CAJSamples/issue-48/ZZXX200402047.caj/9106c1b6b37bb2958c2fe54f3eb6116b.ZZXX200402047.caj"
+    },
+    "CAJSamples\\issue-48\\ZZXX200402047.pdf": {
+      "fmd5": "24a166e08b22e5d1243d490672522faf",
+      "fsize": 28219,
+      "symlink": "CAJSamples/issue-48/ZZXX200402047.pdf/24a166e08b22e5d1243d490672522faf.ZZXX200402047.pdf"
     }
   },
   "ossroot": false

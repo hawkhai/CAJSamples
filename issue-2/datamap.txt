@@ -1,2 +1,4 @@
 "CAJSamples\issue-2\a.caj" b568230812f9858cb1afde58d4b31a0b 5356731 "CAJSamples/issue-2/a.caj/b568230812f9858cb1afde58d4b31a0b.a.caj"
+"CAJSamples\issue-2\a.pdf" d9f9eddafefbc72555e2c8a017e72ed4 5599214 "CAJSamples/issue-2/a.pdf/d9f9eddafefbc72555e2c8a017e72ed4.a.pdf"
 "CAJSamples\issue-2\b.caj" 4525a11046f8bcda132d9e78a662f898 4097057 "CAJSamples/issue-2/b.caj/4525a11046f8bcda132d9e78a662f898.b.caj"
+"CAJSamples\issue-2\b.pdf" 601d5e9f1252ca05e4bf3f56abb0bef0 4379748 "CAJSamples/issue-2/b.pdf/601d5e9f1252ca05e4bf3f56abb0bef0.b.pdf"

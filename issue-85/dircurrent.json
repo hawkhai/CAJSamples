@@ -1,15 +1,25 @@
 {
-  "count": 2,
+  "count": 4,
   "filelist": {
     "CAJSamples\\issue-85\\\u300a\u5468\u793c\u300b\u4e2d\u6240\u89c1\u5929\u795e\u796d\u7940\u8003\u8bba_\u5218\u6d9b.caj": {
       "fmd5": "7f99ff88b034b3d194d19e88be11cce5",
       "fsize": 73763774,
       "symlink": "CAJSamples/issue-85/\u300a\u5468\u793c\u300b\u4e2d\u6240\u89c1\u5929\u795e\u796d\u7940\u8003\u8bba_\u5218\u6d9b.caj/7f99ff88b034b3d194d19e88be11cce5.\u300a\u5468\u793c\u300b\u4e2d\u6240\u89c1\u5929\u795e\u796d\u7940\u8003\u8bba_\u5218\u6d9b.caj"
     },
+    "CAJSamples\\issue-85\\\u300a\u5468\u793c\u300b\u4e2d\u6240\u89c1\u5929\u795e\u796d\u7940\u8003\u8bba_\u5218\u6d9b.pdf": {
+      "fmd5": "b26933a9e8df334755b4580e9e3dd0c4",
+      "fsize": 98178266,
+      "symlink": "CAJSamples/issue-85/\u300a\u5468\u793c\u300b\u4e2d\u6240\u89c1\u5929\u795e\u796d\u7940\u8003\u8bba_\u5218\u6d9b.pdf/b26933a9e8df334755b4580e9e3dd0c4.\u300a\u5468\u793c\u300b\u4e2d\u6240\u89c1\u5929\u795e\u796d\u7940\u8003\u8bba_\u5218\u6d9b.pdf"
+    },
     "CAJSamples\\issue-85\\\u660e\u5802\u5236\u5ea6\u7814\u7a76\u2014\u2014\u660e\u5802\u5236\u5ea6\u7684\u6e90\u6d41_\u5f20\u4e00\u5175.caj": {
       "fmd5": "1d1edddb95e8629bdcd8873fdb271333",
       "fsize": 5990802,
       "symlink": "CAJSamples/issue-85/\u660e\u5802\u5236\u5ea6\u7814\u7a76\u2014\u2014\u660e\u5802\u5236\u5ea6\u7684\u6e90\u6d41_\u5f20\u4e00\u5175.caj/1d1edddb95e8629bdcd8873fdb271333.\u660e\u5802\u5236\u5ea6\u7814\u7a76\u2014\u2014\u660e\u5802\u5236\u5ea6\u7684\u6e90\u6d41_\u5f20\u4e00\u5175.caj"
+    },
+    "CAJSamples\\issue-85\\\u660e\u5802\u5236\u5ea6\u7814\u7a76\u2014\u2014\u660e\u5802\u5236\u5ea6\u7684\u6e90\u6d41_\u5f20\u4e00\u5175.pdf": {
+      "fmd5": "7f96632ac6597f8f41f0aca77e15abe7",
+      "fsize": 6896839,
+      "symlink": "CAJSamples/issue-85/\u660e\u5802\u5236\u5ea6\u7814\u7a76\u2014\u2014\u660e\u5802\u5236\u5ea6\u7684\u6e90\u6d41_\u5f20\u4e00\u5175.pdf/7f96632ac6597f8f41f0aca77e15abe7.\u660e\u5802\u5236\u5ea6\u7814\u7a76\u2014\u2014\u660e\u5802\u5236\u5ea6\u7684\u6e90\u6d41_\u5f20\u4e00\u5175.pdf"
     }
   },
   "ossroot": false

@@ -1,1 +1,2 @@
 "CAJSamples\issue-88\0.caj" 913fef6633cbbe4e18969aa58928a9c0 2045046 "CAJSamples/issue-88/0.caj/913fef6633cbbe4e18969aa58928a9c0.0.caj"
+"CAJSamples\issue-88\0.pdf" 4c92139db2c6516ef7b449d3efefaf27 2478087 "CAJSamples/issue-88/0.pdf/4c92139db2c6516ef7b449d3efefaf27.0.pdf"

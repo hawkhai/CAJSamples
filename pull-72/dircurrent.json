@@ -1,10 +1,15 @@
 {
-  "count": 1,
+  "count": 2,
   "filelist": {
     "CAJSamples\\pull-72\\\u78b3_\u78b3\u590d\u5408\u6750\u6599\u591a\u91cd\u73af\u5883\u4e0b\u7684\u6c27\u5316\u673a\u7406\u7814\u7a76_\u674e\u9f99.caj": {
       "fmd5": "16a7b74cb47b4f83d751a57ca9467807",
       "fsize": 18200390,
       "symlink": "CAJSamples/pull-72/\u78b3_\u78b3\u590d\u5408\u6750\u6599\u591a\u91cd\u73af\u5883\u4e0b\u7684\u6c27\u5316\u673a\u7406\u7814\u7a76_\u674e\u9f99.caj/16a7b74cb47b4f83d751a57ca9467807.\u78b3_\u78b3\u590d\u5408\u6750\u6599\u591a\u91cd\u73af\u5883\u4e0b\u7684\u6c27\u5316\u673a\u7406\u7814\u7a76_\u674e\u9f99.caj"
+    },
+    "CAJSamples\\pull-72\\\u78b3_\u78b3\u590d\u5408\u6750\u6599\u591a\u91cd\u73af\u5883\u4e0b\u7684\u6c27\u5316\u673a\u7406\u7814\u7a76_\u674e\u9f99.pdf": {
+      "fmd5": "11a4b87c81c0da3bedc2fd456366d1e7",
+      "fsize": 10622989,
+      "symlink": "CAJSamples/pull-72/\u78b3_\u78b3\u590d\u5408\u6750\u6599\u591a\u91cd\u73af\u5883\u4e0b\u7684\u6c27\u5316\u673a\u7406\u7814\u7a76_\u674e\u9f99.pdf/11a4b87c81c0da3bedc2fd456366d1e7.\u78b3_\u78b3\u590d\u5408\u6750\u6599\u591a\u91cd\u73af\u5883\u4e0b\u7684\u6c27\u5316\u673a\u7406\u7814\u7a76_\u674e\u9f99.pdf"
     }
   },
   "ossroot": false

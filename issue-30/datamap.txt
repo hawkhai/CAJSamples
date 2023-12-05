@@ -1,1 +1,2 @@
 "CAJSamples\issue-30\Lambertian.caj" c504e012aef514de83762ce1420c5030 3875504 "CAJSamples/issue-30/Lambertian.caj/c504e012aef514de83762ce1420c5030.Lambertian.caj"
+"CAJSamples\issue-30\Lambertian.pdf" d305359d1a43b7351cf8c98ad8458945 4229801 "CAJSamples/issue-30/Lambertian.pdf/d305359d1a43b7351cf8c98ad8458945.Lambertian.pdf"

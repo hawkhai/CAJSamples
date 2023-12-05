@@ -1,10 +1,15 @@
 {
-  "count": 1,
+  "count": 2,
   "filelist": {
     "CAJSamples\\issue-93\\tmp.caj": {
       "fmd5": "c7900e41467ceb320efb529ed9502b99",
       "fsize": 2223487,
       "symlink": "CAJSamples/issue-93/tmp.caj/c7900e41467ceb320efb529ed9502b99.tmp.caj"
+    },
+    "CAJSamples\\issue-93\\tmp.pdf": {
+      "fmd5": "950220b6344d5d70be00f2fc0289e942",
+      "fsize": 2396315,
+      "symlink": "CAJSamples/issue-93/tmp.pdf/950220b6344d5d70be00f2fc0289e942.tmp.pdf"
     }
   },
   "ossroot": false

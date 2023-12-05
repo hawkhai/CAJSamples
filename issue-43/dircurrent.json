@@ -1,10 +1,15 @@
 {
-  "count": 1,
+  "count": 2,
   "filelist": {
     "CAJSamples\\issue-43\\Windows9x_NT\u64cd\u4f5c\u7cfb\u7edf\u7684\u78c1\u76d8\u5907\u4efd\u4e0e\u6062\u590d\u7684\u7814\u7a76\u4e0e\u5b9e\u73b0_\u5f20\u5b97\u4f1f.caj": {
       "fmd5": "273e24a3dde0090b3b5f5a535765e9bb",
       "fsize": 6489809,
       "symlink": "CAJSamples/issue-43/Windows9x_NT\u64cd\u4f5c\u7cfb\u7edf\u7684\u78c1\u76d8\u5907\u4efd\u4e0e\u6062\u590d\u7684\u7814\u7a76\u4e0e\u5b9e\u73b0_\u5f20\u5b97\u4f1f.caj/273e24a3dde0090b3b5f5a535765e9bb.Windows9x_NT\u64cd\u4f5c\u7cfb\u7edf\u7684\u78c1\u76d8\u5907\u4efd\u4e0e\u6062\u590d\u7684\u7814\u7a76\u4e0e\u5b9e\u73b0_\u5f20\u5b97\u4f1f.caj"
+    },
+    "CAJSamples\\issue-43\\Windows9x_NT\u64cd\u4f5c\u7cfb\u7edf\u7684\u78c1\u76d8\u5907\u4efd\u4e0e\u6062\u590d\u7684\u7814\u7a76\u4e0e\u5b9e\u73b0_\u5f20\u5b97\u4f1f.pdf": {
+      "fmd5": "2d1d44383fadd8243957e281fd4a8fdd",
+      "fsize": 6925771,
+      "symlink": "CAJSamples/issue-43/Windows9x_NT\u64cd\u4f5c\u7cfb\u7edf\u7684\u78c1\u76d8\u5907\u4efd\u4e0e\u6062\u590d\u7684\u7814\u7a76\u4e0e\u5b9e\u73b0_\u5f20\u5b97\u4f1f.pdf/2d1d44383fadd8243957e281fd4a8fdd.Windows9x_NT\u64cd\u4f5c\u7cfb\u7edf\u7684\u78c1\u76d8\u5907\u4efd\u4e0e\u6062\u590d\u7684\u7814\u7a76\u4e0e\u5b9e\u73b0_\u5f20\u5b97\u4f1f.pdf"
     }
   },
   "ossroot": false

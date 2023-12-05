@@ -1,10 +1,15 @@
 {
-  "count": 1,
+  "count": 2,
   "filelist": {
     "CAJSamples\\issue-66\\IDL\u7f16\u8bd1\u5668\u7684\u5b9e\u73b0_\u8bcd\u6cd5\u5206\u6790\u90e8\u5206_\u4e8e\u57f4\u5c27.caj": {
       "fmd5": "ab601e928a2786874822db5a3b51b245",
       "fsize": 40874,
       "symlink": "CAJSamples/issue-66/IDL\u7f16\u8bd1\u5668\u7684\u5b9e\u73b0_\u8bcd\u6cd5\u5206\u6790\u90e8\u5206_\u4e8e\u57f4\u5c27.caj/ab601e928a2786874822db5a3b51b245.IDL\u7f16\u8bd1\u5668\u7684\u5b9e\u73b0_\u8bcd\u6cd5\u5206\u6790\u90e8\u5206_\u4e8e\u57f4\u5c27.caj"
+    },
+    "CAJSamples\\issue-66\\IDL\u7f16\u8bd1\u5668\u7684\u5b9e\u73b0_\u8bcd\u6cd5\u5206\u6790\u90e8\u5206_\u4e8e\u57f4\u5c27.pdf": {
+      "fmd5": "d2464e2297f44cfd126ce4c31c6fee0f",
+      "fsize": 180144,
+      "symlink": "CAJSamples/issue-66/IDL\u7f16\u8bd1\u5668\u7684\u5b9e\u73b0_\u8bcd\u6cd5\u5206\u6790\u90e8\u5206_\u4e8e\u57f4\u5c27.pdf/d2464e2297f44cfd126ce4c31c6fee0f.IDL\u7f16\u8bd1\u5668\u7684\u5b9e\u73b0_\u8bcd\u6cd5\u5206\u6790\u90e8\u5206_\u4e8e\u57f4\u5c27.pdf"
     }
   },
   "ossroot": false

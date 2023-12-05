@@ -1,1 +1,2 @@
 "CAJSamples\issue-44\基于802.11ac的LDPC编译码算法设计与实现_杨阳.caj" 8b4ab19882f042148a799061d1adfa4c 5455734 "CAJSamples/issue-44/基于802.11ac的LDPC编译码算法设计与实现_杨阳.caj/8b4ab19882f042148a799061d1adfa4c.基于802.11ac的LDPC编译码算法设计与实现_杨阳.caj"
+"CAJSamples\issue-44\基于802.11ac的LDPC编译码算法设计与实现_杨阳.pdf" 15261922f43161554cec97c5c42774f8 5738578 "CAJSamples/issue-44/基于802.11ac的LDPC编译码算法设计与实现_杨阳.pdf/15261922f43161554cec97c5c42774f8.基于802.11ac的LDPC编译码算法设计与实现_杨阳.pdf"

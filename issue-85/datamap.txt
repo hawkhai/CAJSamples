@@ -1,2 +1,4 @@
 "CAJSamples\issue-85\《周礼》中所见天神祭祀考论_刘涛.caj" 7f99ff88b034b3d194d19e88be11cce5 73763774 "CAJSamples/issue-85/《周礼》中所见天神祭祀考论_刘涛.caj/7f99ff88b034b3d194d19e88be11cce5.《周礼》中所见天神祭祀考论_刘涛.caj"
+"CAJSamples\issue-85\《周礼》中所见天神祭祀考论_刘涛.pdf" b26933a9e8df334755b4580e9e3dd0c4 98178266 "CAJSamples/issue-85/《周礼》中所见天神祭祀考论_刘涛.pdf/b26933a9e8df334755b4580e9e3dd0c4.《周礼》中所见天神祭祀考论_刘涛.pdf"
 "CAJSamples\issue-85\明堂制度研究——明堂制度的源流_张一兵.caj" 1d1edddb95e8629bdcd8873fdb271333 5990802 "CAJSamples/issue-85/明堂制度研究——明堂制度的源流_张一兵.caj/1d1edddb95e8629bdcd8873fdb271333.明堂制度研究——明堂制度的源流_张一兵.caj"
+"CAJSamples\issue-85\明堂制度研究——明堂制度的源流_张一兵.pdf" 7f96632ac6597f8f41f0aca77e15abe7 6896839 "CAJSamples/issue-85/明堂制度研究——明堂制度的源流_张一兵.pdf/7f96632ac6597f8f41f0aca77e15abe7.明堂制度研究——明堂制度的源流_张一兵.pdf"
