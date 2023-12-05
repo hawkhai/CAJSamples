@@ -17,6 +17,9 @@ countx = {
     False: [],
 }
 
+minv = 100
+maxv = 0
+
 def mainfile(fpath, fname, ftype):
     if not ftype in ("caj",):
         return
@@ -29,8 +32,23 @@ def mainfile(fpath, fname, ftype):
     count += 1
 
     result = fpage.startswith("result = true")
+    pdfpath = re.findall(r'destfile = "(.*?\.pdf)"', fpage)[0]
+    
+    xdata = readfile(pdfpath)
+    ydata = readfile(pdfpath+".pdf")
+    i = 0
+    while xdata[i] == ydata[i]:
+        i += 1
+    ix = i / len(xdata)
+    global minv
+    global maxv
+    if ix < minv: minv = ix
+    if ix > maxv: maxv = ix
+    print(ix, minv, maxv)
+    
+    copyfile(pdfpath, pdfpath+".pdf")
     print(count, fpath)
-    print(fpage)
+    print(result, pdfpath)
     countx[result].append(fpath)
     #print(countx)
     if not result:
@@ -48,6 +66,8 @@ def main():
     printx(countx[True])
     printx(countx[False])
     clearemptydir(r"D:\worktemp\CAJSamples")
+
+    print(minv, maxv)
 
 if __name__ == "__main__":
     main()

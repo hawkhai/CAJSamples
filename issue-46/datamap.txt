@@ -1,2 +1,2 @@
 "CAJSamples\issue-46\1.caj" 1ba90352d9071bf473b6d0583292c1ec 19979684 "CAJSamples/issue-46/1.caj/1ba90352d9071bf473b6d0583292c1ec.1.caj"
-"CAJSamples\issue-46\1.pdf" 6c4ee5e883329173b61f2976d86e993f 20437174 "CAJSamples/issue-46/1.pdf/6c4ee5e883329173b61f2976d86e993f.1.pdf"
+"CAJSamples\issue-46\1.pdf" 6392d5574ee15012ef86e1fdb702524c 20437174 "CAJSamples/issue-46/1.pdf/6392d5574ee15012ef86e1fdb702524c.1.pdf"

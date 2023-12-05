@@ -7,9 +7,9 @@
       "symlink": "CAJSamples/issue-90/4-[21].caj/19f42f2a452c678e6e28bddf0d413b12.4-[21].caj"
     },
     "CAJSamples\\issue-90\\4-[21].pdf": {
-      "fmd5": "95628088a1f964c606145415383e9cc7",
+      "fmd5": "e9fec8f0b872245ae4e9a2b0dfaab065",
       "fsize": 290672,
-      "symlink": "CAJSamples/issue-90/4-[21].pdf/95628088a1f964c606145415383e9cc7.4-[21].pdf"
+      "symlink": "CAJSamples/issue-90/4-[21].pdf/e9fec8f0b872245ae4e9a2b0dfaab065.4-[21].pdf"
     },
     "CAJSamples\\issue-90\\4-[24].caj": {
       "fmd5": "a860df857ef54119172b1322fb83c583",
@@ -17,9 +17,9 @@
       "symlink": "CAJSamples/issue-90/4-[24].caj/a860df857ef54119172b1322fb83c583.4-[24].caj"
     },
     "CAJSamples\\issue-90\\4-[24].pdf": {
-      "fmd5": "f6e1fb81adebb98801bcf56aecfbe12b",
-      "fsize": 523053,
-      "symlink": "CAJSamples/issue-90/4-[24].pdf/f6e1fb81adebb98801bcf56aecfbe12b.4-[24].pdf"
+      "fmd5": "8afbb55610ca196f34064531c0bcdd1e",
+      "fsize": 523080,
+      "symlink": "CAJSamples/issue-90/4-[24].pdf/8afbb55610ca196f34064531c0bcdd1e.4-[24].pdf"
     },
     "CAJSamples\\issue-90\\4-[6].caj": {
       "fmd5": "739c7fd6f73b9f3a01ca805d0a797b47",
@@ -27,9 +27,9 @@
       "symlink": "CAJSamples/issue-90/4-[6].caj/739c7fd6f73b9f3a01ca805d0a797b47.4-[6].caj"
     },
     "CAJSamples\\issue-90\\4-[6].pdf": {
-      "fmd5": "dd8827410ece4fb067dc2ba53096b55a",
+      "fmd5": "fba3527631c46106607aeb64b95d248f",
       "fsize": 3678465,
-      "symlink": "CAJSamples/issue-90/4-[6].pdf/dd8827410ece4fb067dc2ba53096b55a.4-[6].pdf"
+      "symlink": "CAJSamples/issue-90/4-[6].pdf/fba3527631c46106607aeb64b95d248f.4-[6].pdf"
     },
     "CAJSamples\\issue-90\\4-[7].caj": {
       "fmd5": "eaeb4836559da61c96bc25753b807619",
@@ -37,9 +37,9 @@
       "symlink": "CAJSamples/issue-90/4-[7].caj/eaeb4836559da61c96bc25753b807619.4-[7].caj"
     },
     "CAJSamples\\issue-90\\4-[7].pdf": {
-      "fmd5": "b2eac4c8afa3fbd6ecbf008afa743a61",
-      "fsize": 10487363,
-      "symlink": "CAJSamples/issue-90/4-[7].pdf/b2eac4c8afa3fbd6ecbf008afa743a61.4-[7].pdf"
+      "fmd5": "5783995d02b7474a3ec3c467b3a6b488",
+      "fsize": 10487362,
+      "symlink": "CAJSamples/issue-90/4-[7].pdf/5783995d02b7474a3ec3c467b3a6b488.4-[7].pdf"
     },
     "CAJSamples\\issue-90\\5-[4].caj": {
       "fmd5": "480567c7ba070058bdc22193a37bad41",
@@ -47,9 +47,9 @@
       "symlink": "CAJSamples/issue-90/5-[4].caj/480567c7ba070058bdc22193a37bad41.5-[4].caj"
     },
     "CAJSamples\\issue-90\\5-[4].pdf": {
-      "fmd5": "963d09399750b86d5bebc2d7b558c248",
-      "fsize": 13285445,
-      "symlink": "CAJSamples/issue-90/5-[4].pdf/963d09399750b86d5bebc2d7b558c248.5-[4].pdf"
+      "fmd5": "41f304a973b683ed3779bf1384e8c182",
+      "fsize": 13285439,
+      "symlink": "CAJSamples/issue-90/5-[4].pdf/41f304a973b683ed3779bf1384e8c182.5-[4].pdf"
     }
   },
   "ossroot": false

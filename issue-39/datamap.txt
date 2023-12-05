@@ -1,2 +1,2 @@
 "CAJSamples\issue-39\文件同步服务中数据同步传输消重策略研究_张航.caj" d8cb5398398b5411e04c0adf66550a66 2623476 "CAJSamples/issue-39/文件同步服务中数据同步传输消重策略研究_张航.caj/d8cb5398398b5411e04c0adf66550a66.文件同步服务中数据同步传输消重策略研究_张航.caj"
-"CAJSamples\issue-39\文件同步服务中数据同步传输消重策略研究_张航.pdf" 0bf25b1c4aeb00f5207a7fc61ab231cd 2942457 "CAJSamples/issue-39/文件同步服务中数据同步传输消重策略研究_张航.pdf/0bf25b1c4aeb00f5207a7fc61ab231cd.文件同步服务中数据同步传输消重策略研究_张航.pdf"
+"CAJSamples\issue-39\文件同步服务中数据同步传输消重策略研究_张航.pdf" e757393faa874918c0ef0a32a35c5105 2942457 "CAJSamples/issue-39/文件同步服务中数据同步传输消重策略研究_张航.pdf/e757393faa874918c0ef0a32a35c5105.文件同步服务中数据同步传输消重策略研究_张航.pdf"

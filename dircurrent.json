@@ -1,5 +1,11 @@
 {
-  "count": 0,
-  "filelist": {},
+  "count": 1,
+  "filelist": {
+    "CAJSamples\\PDFEdit.exe": {
+      "fmd5": "c992b683f4612b210879ac70c9b13874",
+      "fsize": 5551560,
+      "symlink": "CAJSamples/PDFEdit.exe/2010020517/0-0/PeFilec992b683f4612b210879ac70c9b13874.PDFEdit.exe"
+    }
+  },
   "ossroot": false
 }
