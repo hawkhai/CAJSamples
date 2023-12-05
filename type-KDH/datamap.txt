@@ -1,0 +1,3 @@
+"CAJSamples\type-KDH\G公司医药移动电子商务平台项目可行性研究_邓晓聪.caj" bc21800e39e4186caf91a1fc4b85c292 84 "CAJSamples/type-KDH/G公司医药移动电子商务平台项目可行性研究_邓晓聪.caj/bc21800e39e4186caf91a1fc4b85c292.G公司医药移动电子商务平台项目可行性研究_邓晓聪.caj"
+"CAJSamples\type-KDH\ZZXX200402047.caj" 24014c39e0b1cf6441c228fe03d0e062 29 "CAJSamples/type-KDH/ZZXX200402047.caj/24014c39e0b1cf6441c228fe03d0e062.ZZXX200402047.caj"
+"CAJSamples\type-KDH\时间序列模型在卫星异常检测中的应用研究_余文艳.caj" 4b817aca6138a62460e148bf0a82cbd0 83 "CAJSamples/type-KDH/时间序列模型在卫星异常检测中的应用研究_余文艳.caj/4b817aca6138a62460e148bf0a82cbd0.时间序列模型在卫星异常检测中的应用研究_余文艳.caj"

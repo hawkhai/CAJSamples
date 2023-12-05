@@ -1,0 +1,81 @@
+{
+  "count": 15,
+  "filelist": {
+    "CAJSamples\\type-CAJ\\0.caj": {
+      "fmd5": "00980ed28799ffd0ec31239a72645f89",
+      "fsize": 17,
+      "symlink": "CAJSamples/type-CAJ/0.caj/00980ed28799ffd0ec31239a72645f89.0.caj"
+    },
+    "CAJSamples\\type-CAJ\\1.caj": {
+      "fmd5": "da3eb50c68223ac99105e1fa72540aa4",
+      "fsize": 17,
+      "symlink": "CAJSamples/type-CAJ/1.caj/da3eb50c68223ac99105e1fa72540aa4.1.caj"
+    },
+    "CAJSamples\\type-CAJ\\2.caj": {
+      "fmd5": "55f0cda6dcaf5b039e86ae1a4f96876f",
+      "fsize": 17,
+      "symlink": "CAJSamples/type-CAJ/2.caj/55f0cda6dcaf5b039e86ae1a4f96876f.2.caj"
+    },
+    "CAJSamples\\type-CAJ\\4-[6].caj": {
+      "fmd5": "f119a9ac004c9c6cd8fe2cf2746a15b2",
+      "fsize": 21,
+      "symlink": "CAJSamples/type-CAJ/4-[6].caj/f119a9ac004c9c6cd8fe2cf2746a15b2.4-[6].caj"
+    },
+    "CAJSamples\\type-CAJ\\Lambertian.caj": {
+      "fmd5": "1c3f7402e2919be2dd1dfc091d27fbc2",
+      "fsize": 26,
+      "symlink": "CAJSamples/type-CAJ/Lambertian.caj/1c3f7402e2919be2dd1dfc091d27fbc2.Lambertian.caj"
+    },
+    "CAJSamples\\type-CAJ\\a.caj": {
+      "fmd5": "ca071366d04de274e4cb582a435b165f",
+      "fsize": 16,
+      "symlink": "CAJSamples/type-CAJ/a.caj/ca071366d04de274e4cb582a435b165f.a.caj"
+    },
+    "CAJSamples\\type-CAJ\\b.caj": {
+      "fmd5": "2ff128dae497ef2cb86cbfa207a2f040",
+      "fsize": 16,
+      "symlink": "CAJSamples/type-CAJ/b.caj/2ff128dae497ef2cb86cbfa207a2f040.b.caj"
+    },
+    "CAJSamples\\type-CAJ\\\u57fa\u4e8e802.11ac\u7684LDPC\u7f16\u8bd1\u7801\u7b97\u6cd5\u8bbe\u8ba1\u4e0e\u5b9e\u73b0_\u6768\u9633.caj": {
+      "fmd5": "6a435a624129b3195e3673f0aecc6d19",
+      "fsize": 74,
+      "symlink": "CAJSamples/type-CAJ/\u57fa\u4e8e802.11ac\u7684LDPC\u7f16\u8bd1\u7801\u7b97\u6cd5\u8bbe\u8ba1\u4e0e\u5b9e\u73b0_\u6768\u9633.caj/6a435a624129b3195e3673f0aecc6d19.\u57fa\u4e8e802.11ac\u7684LDPC\u7f16\u8bd1\u7801\u7b97\u6cd5\u8bbe\u8ba1\u4e0e\u5b9e\u73b0_\u6768\u9633.caj"
+    },
+    "CAJSamples\\type-CAJ\\\u57fa\u4e8e\u7269\u8054\u7f51\u7684\u6e29\u5ba4\u5927\u68da\u8fdc\u7a0b\u73af\u5883\u76d1\u6d4b\u7cfb\u7edf_\u6731\u8d85.caj": {
+      "fmd5": "bd3b257194fee8ad17f674af0e3452f4",
+      "fsize": 77,
+      "symlink": "CAJSamples/type-CAJ/\u57fa\u4e8e\u7269\u8054\u7f51\u7684\u6e29\u5ba4\u5927\u68da\u8fdc\u7a0b\u73af\u5883\u76d1\u6d4b\u7cfb\u7edf_\u6731\u8d85.caj/bd3b257194fee8ad17f674af0e3452f4.\u57fa\u4e8e\u7269\u8054\u7f51\u7684\u6e29\u5ba4\u5927\u68da\u8fdc\u7a0b\u73af\u5883\u76d1\u6d4b\u7cfb\u7edf_\u6731\u8d85.caj"
+    },
+    "CAJSamples\\type-CAJ\\\u6587\u4ef6\u540c\u6b65\u670d\u52a1\u4e2d\u6570\u636e\u540c\u6b65\u4f20\u8f93\u6d88\u91cd\u7b56\u7565\u7814\u7a76_\u5f20\u822a.caj": {
+      "fmd5": "1f339f879c247d65203746ee10057829",
+      "fsize": 80,
+      "symlink": "CAJSamples/type-CAJ/\u6587\u4ef6\u540c\u6b65\u670d\u52a1\u4e2d\u6570\u636e\u540c\u6b65\u4f20\u8f93\u6d88\u91cd\u7b56\u7565\u7814\u7a76_\u5f20\u822a.caj/1f339f879c247d65203746ee10057829.\u6587\u4ef6\u540c\u6b65\u670d\u52a1\u4e2d\u6570\u636e\u540c\u6b65\u4f20\u8f93\u6d88\u91cd\u7b56\u7565\u7814\u7a76_\u5f20\u822a.caj"
+    },
+    "CAJSamples\\type-CAJ\\\u6587\u4ef6\u540d\u672a\u77e5.caj": {
+      "fmd5": "0fa24a35fa959edc11af45bfcfb31c3f",
+      "fsize": 31,
+      "symlink": "CAJSamples/type-CAJ/\u6587\u4ef6\u540d\u672a\u77e5.caj/0fa24a35fa959edc11af45bfcfb31c3f.\u6587\u4ef6\u540d\u672a\u77e5.caj"
+    },
+    "CAJSamples\\type-CAJ\\\u660e\u5802\u5236\u5ea6\u7814\u7a76\u2014\u2014\u660e\u5802\u5236\u5ea6\u7684\u6e90\u6d41_\u5f20\u4e00\u5175.caj": {
+      "fmd5": "0fd041d7ee7d846efa20ab78db706573",
+      "fsize": 71,
+      "symlink": "CAJSamples/type-CAJ/\u660e\u5802\u5236\u5ea6\u7814\u7a76\u2014\u2014\u660e\u5802\u5236\u5ea6\u7684\u6e90\u6d41_\u5f20\u4e00\u5175.caj/0fd041d7ee7d846efa20ab78db706573.\u660e\u5802\u5236\u5ea6\u7814\u7a76\u2014\u2014\u660e\u5802\u5236\u5ea6\u7684\u6e90\u6d41_\u5f20\u4e00\u5175.caj"
+    },
+    "CAJSamples\\type-CAJ\\\u76ae\u8d28\u9aa8\u94bb\u524a\u4e2d\u6e29\u5ea6\u5206\u5e03\u7684\u9884\u6d4b\u6a21\u578b\u53ca\u70ed\u5f71\u54cd\u533a\u7684\u7814\u7a76_\u674e\u5411\u519b.caj": {
+      "fmd5": "2ca6ff2b2b54182ef843d17be9d4db4b",
+      "fsize": 95,
+      "symlink": "CAJSamples/type-CAJ/\u76ae\u8d28\u9aa8\u94bb\u524a\u4e2d\u6e29\u5ea6\u5206\u5e03\u7684\u9884\u6d4b\u6a21\u578b\u53ca\u70ed\u5f71\u54cd\u533a\u7684\u7814\u7a76_\u674e\u5411\u519b.caj/2ca6ff2b2b54182ef843d17be9d4db4b.\u76ae\u8d28\u9aa8\u94bb\u524a\u4e2d\u6e29\u5ea6\u5206\u5e03\u7684\u9884\u6d4b\u6a21\u578b\u53ca\u70ed\u5f71\u54cd\u533a\u7684\u7814\u7a76_\u674e\u5411\u519b.caj"
+    },
+    "CAJSamples\\type-CAJ\\\u975e\u7ebf\u6027\u91cf\u6d4b\u4e0b\u7684\u96f7\u8fbe\u76ee\u6807\u8ddf\u8e2a\u7b97\u6cd5\u7814\u7a76_\u5f20\u5b87\u8f69.caj": {
+      "fmd5": "27c164b7af5352e9a60ed5a1d56d5af1",
+      "fsize": 77,
+      "symlink": "CAJSamples/type-CAJ/\u975e\u7ebf\u6027\u91cf\u6d4b\u4e0b\u7684\u96f7\u8fbe\u76ee\u6807\u8ddf\u8e2a\u7b97\u6cd5\u7814\u7a76_\u5f20\u5b87\u8f69.caj/27c164b7af5352e9a60ed5a1d56d5af1.\u975e\u7ebf\u6027\u91cf\u6d4b\u4e0b\u7684\u96f7\u8fbe\u76ee\u6807\u8ddf\u8e2a\u7b97\u6cd5\u7814\u7a76_\u5f20\u5b87\u8f69.caj"
+    },
+    "CAJSamples\\type-CAJ\\\u9ad8\u7089\u94c1\u6c34\u7845\u542b\u91cf\u9884\u6d4b\u4e2d\u7684\u76f4\u63a5\u7ecf\u9a8c\u548c\u95f4\u63a5\u7ecf\u9a8c.caj": {
+      "fmd5": "f8876446b4be7aee76120def48fefeb5",
+      "fsize": 76,
+      "symlink": "CAJSamples/type-CAJ/\u9ad8\u7089\u94c1\u6c34\u7845\u542b\u91cf\u9884\u6d4b\u4e2d\u7684\u76f4\u63a5\u7ecf\u9a8c\u548c\u95f4\u63a5\u7ecf\u9a8c.caj/f8876446b4be7aee76120def48fefeb5.\u9ad8\u7089\u94c1\u6c34\u7845\u542b\u91cf\u9884\u6d4b\u4e2d\u7684\u76f4\u63a5\u7ecf\u9a8c\u548c\u95f4\u63a5\u7ecf\u9a8c.caj"
+    }
+  },
+  "ossroot": false
+}

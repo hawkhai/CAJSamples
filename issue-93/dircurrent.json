@@ -1,0 +1,11 @@
+{
+  "count": 1,
+  "filelist": {
+    "CAJSamples\\issue-93\\tmp.caj": {
+      "fmd5": "c7900e41467ceb320efb529ed9502b99",
+      "fsize": 2223487,
+      "symlink": "CAJSamples/issue-93/tmp.caj/c7900e41467ceb320efb529ed9502b99.tmp.caj"
+    }
+  },
+  "ossroot": false
+}

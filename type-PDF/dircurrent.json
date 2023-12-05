@@ -1,0 +1,16 @@
+{
+  "count": 2,
+  "filelist": {
+    "CAJSamples\\type-PDF\\test2.caj": {
+      "fmd5": "7706a2284b6477c59193f97fb06f5172",
+      "fsize": 21,
+      "symlink": "CAJSamples/type-PDF/test2.caj/7706a2284b6477c59193f97fb06f5172.test2.caj"
+    },
+    "CAJSamples\\type-PDF\\test3.caj": {
+      "fmd5": "75e2f061183283053c2ce6542970b896",
+      "fsize": 21,
+      "symlink": "CAJSamples/type-PDF/test3.caj/75e2f061183283053c2ce6542970b896.test3.caj"
+    }
+  },
+  "ossroot": false
+}

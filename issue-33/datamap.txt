@@ -1,0 +1,3 @@
+"CAJSamples\issue-33\test1.caj" b476541e95bc702b75bf2790408f8bca 2625902 "CAJSamples/issue-33/test1.caj/b476541e95bc702b75bf2790408f8bca.test1.caj"
+"CAJSamples\issue-33\test2.caj" 4c97d78bcf6da1d92dde84baeb35f68f 6421382 "CAJSamples/issue-33/test2.caj/4c97d78bcf6da1d92dde84baeb35f68f.test2.caj"
+"CAJSamples\issue-33\test3.caj" 754960d8915cac3aa46365b027e1d80d 5328698 "CAJSamples/issue-33/test3.caj/754960d8915cac3aa46365b027e1d80d.test3.caj"
